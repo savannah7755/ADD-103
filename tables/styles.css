@@ -1,0 +1,38 @@
+
+ body{
+    font-family:'Courier New', Courier, monospace;
+ }   
+
+ .container{
+    width:80%;
+    margin: 20px auto;
+    border: 3px;
+    pverflow:auto;
+    padding: 15px;
+ }
+
+ h1{
+    color: dark lightblue;
+    text-align: center;
+ }
+
+ h2{
+    text-align:center
+ }
+ nav{
+    text-align: center;
+ }
+ nav a{
+    text-decoraation:none;
+    background-color:lightblue;
+    border: 2px cornflowerblue;
+    border-radius: 10px;
+    color:whitesmoke;
+    padding: 5px 10px;
+    margin-left: 20px;
+ }
+
+ nav a:hover{
+    color: lightblue;
+    background-color:lightcyan;
+ }
