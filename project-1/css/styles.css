@@ -31,3 +31,43 @@ nav a:hover{
 img {
     width: 30%;
 }
+
+img.ct{
+    width: 20%;
+    float: right;
+    border: 10px solid #5fa95f;
+}    
+    
+img.cancun{
+    width: 20%;
+    border: 10px solid #5fa95f;
+}
+
+img.jeans_thrifting{
+
+    width:20%;
+    border: 10px solid #5fa95f;
+}
+
+img.black_dress_thrifting{
+    width:20%;
+    border: 10px solid #5fa95f;
+}
+
+img.car_black{
+    width:20%;
+    border: 10px solid #5fa95f;
+}
+
+img.car_makeup{
+    width:20%;
+    border: 10px solid #5fa95f;
+    float: right;
+}
+
+
+div, header, main, footer{
+        border: 5px solid #5fa95f;
+}
+
+
