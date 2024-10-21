@@ -7,7 +7,7 @@
     width:80%;
     margin: 20px auto;
     border: 3px;
-    pverflow:auto;
+    overflow:auto;
     padding: 15px;
  }
 
@@ -23,7 +23,7 @@
     text-align: center;
  }
  nav a{
-    text-decoraation:none;
+    text-decoration:none;
     background-color:lightblue;
     border: 2px cornflowerblue;
     border-radius: 10px;
