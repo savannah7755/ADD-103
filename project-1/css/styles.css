@@ -47,16 +47,19 @@ img.jeans_thrifting{
 
     width:20%;
     border: 10px solid #5fa95f;
+    float: right;
 }
 
 img.black_dress_thrifting{
     width:20%;
     border: 10px solid #5fa95f;
+    margin: 10px auto; 
 }
 
 img.car_black{
     width:20%;
     border: 10px solid #5fa95f;
+    margin: 10px auto; 
 }
 
 img.car_makeup{
@@ -69,5 +72,69 @@ img.car_makeup{
 div, header, main, footer{
         border: 5px solid #5fa95f;
 }
+
+.boyfriend {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.truck{
+    float: left;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#intro {
+    float: left;
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#boyfriend {
+    float: right;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ct {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+#thrifting_paragraph {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dress_thrift{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#makeup_paragraph{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#black_makeup {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top_makeup {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
 
 
